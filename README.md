@@ -1,55 +1,22 @@
 # best-neighborhood-pgh
 Final project for CMPINF10 at Pitt
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "a5a7aee7-1070-4d6f-924f-4fa58d54c006",
-   "metadata": {},
-   "source": [
-    "# Best Neighborhood in Pittsburgh - Final Project\n",
-    "Author：Yiping Xu (4517735)\n",
-    "\n",
-    "## Description\n",
-    "This repository explores and compares Pittsburgh neighborhoods to determine the \"best\" one based on education access, safety, and convenience.\n",
-    "\n",
-    "## Datasets Used\n",
-    "1. **Uniform Crime Reporting Data**  \n",
-    "   [https://data.wprdc.org/dataset/uniform-crime-reporting-data]\n",
-    "   \n",
-    "3. **Pittsburgh Public Schools Enrollment by Neighborhood, School, and Feeder Pattern**  \n",
-    "   [https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment]\n",
-    "   \n",
-    "5. **Supermarkets & Convenience Stores**  \n",
-    "   [https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores]\n",
-    "   \n",
-    "7. **Neighborhood Boundaries Shapefile**  \n",
-    "   [https://data.wprdc.org/dataset/neighborhoods2]\n",
-    "\n",
-    "## One-sentence Overview\n",
-    "A data-driven, map-based analysis to determine the best Pittsburgh neighborhood based on safety, educational access, and amenity convenience."
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.11.5"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+Author：Yiping Xu (4517735)
+
+## Description
+This repository explores and compares Pittsburgh neighborhoods to determine the "best" one based on education access, safety, and convenience.
+
+## Datasets Used
+1. **Uniform Crime Reporting Data**  
+   [https://data.wprdc.org/dataset/uniform-crime-reporting-data]
+   
+3. **Pittsburgh Public Schools Enrollment by Neighborhood, School, and Feeder Pattern**  
+   [https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment]
+   
+5. **Supermarkets & Convenience Stores**  
+   [https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores]
+   
+7. **Neighborhood Boundaries Shapefile**  
+   [https://data.wprdc.org/dataset/neighborhoods2]
+
+## One-sentence Overview
+A data-driven, map-based analysis to determine the best Pittsburgh neighborhood based on safety, educational access, and amenity convenience.
